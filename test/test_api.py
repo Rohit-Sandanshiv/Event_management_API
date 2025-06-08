@@ -31,6 +31,7 @@ attendee_payload2 = {
     }
 }
 
+
 @pytest.fixture(scope="module")
 def event_id():
     response = requests.post(base_url, json=event_payload, headers=HEADERS)

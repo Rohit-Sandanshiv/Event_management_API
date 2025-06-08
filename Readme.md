@@ -223,7 +223,9 @@ curl -v -H "Content-Type: application/json" -H "TransactionId: transation_1" -H 
    - Add support for recurring events or multi-day events.
 
 ---
-
+## Bonus
+   - To overcome this limitation, Same project with SQLAlchemy support and flasgger documentation is created, please do checkout
+   - https://github.com/Rohit-Sandanshiv/MEMS_API_SQLAlchemy.git
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests.
