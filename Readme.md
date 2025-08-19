@@ -55,7 +55,7 @@ Omnify_MEMS_API/
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone `https://github.com/Rohit-Sandanshiv/Omnify_MEMS_API.git`
+   git clone `https://github.com/Rohit-Sandanshiv/Event_management_API.git`
    cd Omnify_MEMS_API
    ```
 2. Create and activate a virtual environment:
