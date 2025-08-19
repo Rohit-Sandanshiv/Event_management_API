@@ -225,7 +225,7 @@ curl -v -H "Content-Type: application/json" -H "TransactionId: transation_1" -H 
 ---
 ## Bonus
    - To overcome this limitation, Same project with SQLAlchemy support and flasgger documentation is created, please do checkout
-   - https://github.com/Rohit-Sandanshiv/MEMS_API_SQLAlchemy.git
+   - https://github.com/Rohit-Sandanshiv/EVENT_MANAGEMENT_API_SQLAlchemy.git
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests.
